@@ -1,0 +1,30 @@
+Troubleshooting:
+
+~ My computer is asking me how I want to open this file, which app do I select?
+  >>>Scroll down through the apps until you see python and click on python then click ok
+
+~ I can't find python when it asks me how I want to open this file, how do I open it?
+  >>> open readme.txt to find out how to get python
+
+~It comes up with a box saying theres an error, what do I do?
+  >>>Message me on discord, my name is NeatPlaysAlt#0001
+
+~It comes up with a box saying "You must be an administrator running a console session in order to
+ use the sfc utility." , what do I do?
+  >>>If your system is managed by an organisation there is nothing you can do however if 
+     it istn't then check your local group policy and also try running command prompt as administrator
+
+~The View Installed Apps function isn't doing anything in command prompt , what do I do?
+  >>>Just give it a minute and it will work, it may take a minute and if it takes more than 2 minutes then close and re open the program
+
+~The window is flashing the cursor but I can't type , what do I do?
+  >>>again, Just give it a minute and it will work, it may take a minute and if it takes more than 2 minutes then close and re open the program
+
+~For anything else that goes wrong contact me at;
+ Neatnet@mail.com - [Email]
+ padlad256@gmail.com - [Alternative Email]
+ NeatPlaysAlt#0001 - [Discord]
+ @WhitakerF18 - [Instagram]
+ WhitakerF18 - [Snapchat]
+ padlad256 - [facebook]
+
